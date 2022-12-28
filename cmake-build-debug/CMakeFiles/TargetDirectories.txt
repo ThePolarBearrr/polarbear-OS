@@ -1,0 +1,3 @@
+/home/ziya/CLionProjects/ziya-os-research/cmake-build-debug/CMakeFiles/ziya-os-research.dir
+/home/ziya/CLionProjects/ziya-os-research/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/ziya/CLionProjects/ziya-os-research/cmake-build-debug/CMakeFiles/rebuild_cache.dir
